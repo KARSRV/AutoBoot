@@ -26,4 +26,5 @@ pip install git-autoboot
 ```bash
 setx GITHUB_TOKEN "ghp_yourtoken"
 ```
-
+- Close your IDE and restart it
+  
