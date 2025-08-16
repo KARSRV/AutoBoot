@@ -1,6 +1,6 @@
 # Git-AutoBoot
 
-Tired of typing `git add`, `git commit`, `git init`, `git remote`, and other Git commands just to start a project?  
+Tired of typing `git add`, `git commit`, `git init`, `git remote`, and other Git commands to push projects to GitHub?  
 
 **Git-AutoBoot** is a small CLI tool that automates the boring stuff for you:
 
