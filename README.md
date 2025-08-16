@@ -20,9 +20,9 @@ pip install git-autoboot
 ```
 ## 1. One-Time Git token initialization
 
-Go to GitHub Tokens - https://github.com/settings/tokens
-Generate a token with repo permissions.
-In your IDE Terminal Type:
+- Go to GitHub Tokens - https://github.com/settings/tokens
+- Generate a token with repo permissions.
+- In your IDE Terminal Type:
 ```bash
 setx GITHUB_TOKEN "ghp_yourtoken"
 ```
