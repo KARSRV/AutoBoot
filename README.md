@@ -27,4 +27,10 @@ pip install git-autoboot
 setx GITHUB_TOKEN "ghp_yourtoken"
 ```
 - Close your IDE and restart it
+
+  ## 2. Pushing Code to GitHub
+  ```bash
+  cd project-name
+  autoboot project-name  or  autoboot "project name"
+  ```
   
